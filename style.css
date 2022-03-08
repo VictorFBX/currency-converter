@@ -1,0 +1,116 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-color: #f08080;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+ h1 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 40px;
+  margin-bottom: 2px;
+  text-shadow: 2px 2px 3px rgb(83, 83, 83)
+}
+
+p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 27px;
+  margin-top: 6px;
+  
+}
+
+.convert {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 650;
+  color: #b2d3ff;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  display: block;
+  margin: auto;
+  width: 300px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 6px;
+  font-size: 27px;
+}
+
+button {
+  padding: 12px;
+  margin-bottom: 35px;
+  font-size: 17px;
+  color: #f08080;
+  border-color: #f08080;
+  background-color: white;
+  transition: transform 300ms ease;
+  font-family: "Trebuchet MS", sans-serif;
+  border-radius: 100px;
+  
+  
+}
+button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.real {
+  margin-bottom: 15px;
+  padding: 15px;
+  text-align: center;
+  font-size: 17px;
+  color: #f08080;
+  border-color: #f08080;
+  border: 10;
+  border-radius: 100px;
+    
+  }
